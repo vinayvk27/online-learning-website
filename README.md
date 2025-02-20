@@ -1,6 +1,7 @@
 online-learning-website
 
 OVERVIEW
+
 The online learning website is a user-friendly platform designed to provide learners with access to a wide range of courses. The front-end interface is intuitive and visually appealing, ensuring a seamless user experience. The website includes essential features such as a search functionality, login and registration system, and a course catalog. The interface dynamically toggles between the login and registration pages without requiring a page reload, enhancing usability.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
